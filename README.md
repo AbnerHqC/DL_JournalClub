@@ -24,7 +24,7 @@
 * TBA
 	* Presenter: Xinrui
 
-* TBA
+* Residual Attention Network for Image Classification (https://arxiv.org/pdf/1704.06904.pdf)
 	* Presenter: Erim
 
 ## April 14, 2021
