@@ -17,7 +17,7 @@
 * [Pre-Trained Image Processing Transformer](https://arxiv.org/abs/2012.00364)
 	* Presenter: Fatir
 
-* TBA
+* [Continuously Indexed Domain Adaptation](http://proceedings.mlr.press/v119/wang20h/wang20h.pdf)
 	* Presenter: Rock
 
 ## May 12, 2021
