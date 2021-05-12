@@ -21,23 +21,16 @@
 	* Presenter: Rock
 
 ## May 12, 2021
-* TBA
+* [Image Inpainting for Irregular Holes Using Partial Convolutions](https://arxiv.org/abs/1804.07723)
 	* Presenter: Xiaodong
 
-* TBA
+* [Adversarial Robustness through Local Linearization](https://arxiv.org/pdf/1907.02610.pdf)
 	* Presenter: Jiajin
 
 ## May 26, 2021
-* TBA
-	* Presenter: Erim
+* [Hold me tight! Influence of discriminative features on deep network boundaries](https://proceedings.neurips.cc/paper/2020/file/1ea97de85eb634d580161c603422437f-Paper.pdf)
+	* Presenter: Aseem
 
 * TBA
 	* Presenter: Weiwen
-
-## June 09, 2021
-* [Learning Backtrackless Aligned-Spatial Graph Convolutional Networks for Graph Classification](https://ieeexplore.ieee.org/document/9147059)
-	* Presenter: Nneka
-
-* [Hold me tight! Influence of discriminative features on deep network boundaries](https://proceedings.neurips.cc/paper/2020/file/1ea97de85eb634d580161c603422437f-Paper.pdf)
-	* Presenter: Aseem
 
