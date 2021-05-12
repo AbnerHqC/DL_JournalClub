@@ -702,3 +702,17 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 ## March 31, 2021
 * [AdderNet: Do We Really Need Multiplications in Deep Learning?](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_AdderNet_Do_We_Really_Need_Multiplications_in_Deep_Learning_CVPR_2020_paper.pdf)
 	* Presenter: Xinrui
+
+## April 14, 2021
+* [RealFormer: Transformer Likes Residual Attention](https://arxiv.org/abs/2012.11747)
+	* Presenter: Chris
+
+* [Self-Supervised Pretraining Improves Self-Supervised Pretraining](https://arxiv.org/abs/2103.12718)
+	* Presenter: Diego
+
+## April 28, 2021
+* [Pre-Trained Image Processing Transformer](https://arxiv.org/abs/2012.00364)
+	* Presenter: Fatir
+
+* [Continuously Indexed Domain Adaptation](http://proceedings.mlr.press/v119/wang20h/wang20h.pdf)
+	* Presenter: Rock
