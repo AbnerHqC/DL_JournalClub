@@ -43,7 +43,7 @@
 
 ## Aug 25, 2021
 * TBA
-	* Presenter: xi
+	* Presenter: Xi
 	
 * TBA
 	* Presenter: Hengtao
