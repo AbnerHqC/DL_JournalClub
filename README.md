@@ -36,7 +36,7 @@
 
 ## Aug 11, 2021
 * TBA
-	* Presenter: Hengtao
+	* Presenter: Fenglei
 
 * TBA
 	* Presenter: Hanqing
@@ -46,7 +46,7 @@
 	* Presenter: xi
 	
 * TBA
-	* Presenter: Fenglei
+	* Presenter: Hengtao
 
 ## Sep 8, 2021
 * TBA
