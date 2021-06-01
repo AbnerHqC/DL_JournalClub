@@ -716,3 +716,10 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 
 * [Continuously Indexed Domain Adaptation](http://proceedings.mlr.press/v119/wang20h/wang20h.pdf)
 	* Presenter: Rock
+
+## May 12, 2021
+* [Image Inpainting for Irregular Holes Using Partial Convolutions](https://arxiv.org/abs/1804.07723)
+	* Presenter: Xiaodong
+
+* [Adversarial Robustness through Local Linearization](https://arxiv.org/pdf/1907.02610.pdf)
+	* Presenter: Jiajin
