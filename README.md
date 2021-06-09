@@ -7,9 +7,8 @@
 ## The past journal club list can be found [here](past_list.md)
 
 ## Jun 16, 2021
-* [Hold me tight! Influence of discriminative features on deep network boundaries](https://proceedings.neurips.cc/paper/2020/file/1ea97de85eb634d580161c603422437f-Paper.pdf)
-	* Presenter: Aseem
-
+* TBA
+	* Presenter: Qing
 * TBA
 	* Presenter: Weiwen
 
@@ -17,8 +16,8 @@
 * TBA
 	* Presenter: Chuang
 
-* TBA
-	* Presenter: Qing
+* [Hold me tight! Influence of discriminative features on deep network boundaries](https://proceedings.neurips.cc/paper/2020/file/1ea97de85eb634d580161c603422437f-Paper.pdf)
+	* Presenter: Aseem
 
 ## Jul 14, 2021
 * TBA
