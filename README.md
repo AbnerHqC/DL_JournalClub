@@ -15,16 +15,15 @@
 ## Jun 30, 2021
 * TBA
 	* Presenter: Chuang
-
-* [Hold me tight! Influence of discriminative features on deep network boundaries](https://proceedings.neurips.cc/paper/2020/file/1ea97de85eb634d580161c603422437f-Paper.pdf)
-	* Presenter: Aseem
+* TBA
+	* Presenter: Jiajin
 
 ## Jul 14, 2021
 * TBA
 	* Presenter: Chris
 
-* TBA
-	* Presenter: Jiajin
+* [Hold me tight! Influence of discriminative features on deep network boundaries](https://proceedings.neurips.cc/paper/2020/file/1ea97de85eb634d580161c603422437f-Paper.pdf)
+	* Presenter: Aseem
 
 ## Jul 28, 2021
 * TBA
