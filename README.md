@@ -7,14 +7,8 @@
 
 ## The past journal club list can be found [here](past_list.md)
 
-## Jun 16, 2021
-* [A Fourier-based Framework for Domain Generalization](https://arxiv.org/abs/2105.11120) (CVPR 2021)
-	* Presenter: Qing
-* [Multi-institutional Collaborations for Improving Deep Learning-based Magnetic Resonance Image Reconstruction Using Federated Learning](https://arxiv.org/abs/2103.02148) (CVPR 2021)
-	* Presenter: Weiwen
-
 ## Jun 30, 2021
-* TBA
+* [Can contrastive learning avoid shortcut solutions?](https://arxiv.org/pdf/2106.11230.pdf)
 	* Presenter: Chuang
 * TBA
 	* Presenter: Jiajin
