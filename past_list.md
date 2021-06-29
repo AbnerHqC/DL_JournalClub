@@ -727,6 +727,6 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 
 ## Jun 16, 2021
 * [A Fourier-based Framework for Domain Generalization](https://arxiv.org/abs/2105.11120) (CVPR 2021)
-	* Presenter: Qing [[slides](slides/2021-06-16_Qing_Fourier-based_Domain_Generalization.pptx.pdf)]
+	* Presenter: Qing [[slides](slides/2021-06-16_Qing_Fourier-based_Domain_Generalization.pdf)]
 * [Multi-institutional Collaborations for Improving Deep Learning-based Magnetic Resonance Image Reconstruction Using Federated Learning](https://arxiv.org/abs/2103.02148) (CVPR 2021)
 	* Presenter: Weiwen
