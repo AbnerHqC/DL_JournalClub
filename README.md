@@ -10,7 +10,7 @@
 ## Jun 30, 2021
 * [Can contrastive learning avoid shortcut solutions?](https://arxiv.org/pdf/2106.11230.pdf)
 	* Presenter: Chuang
-* TBA
+* [Learning in the Frequency Domain](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Learning_in_the_Frequency_Domain_CVPR_2020_paper.pdf)
 	* Presenter: Jiajin
 
 ## Jul 14, 2021
