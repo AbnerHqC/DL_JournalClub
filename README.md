@@ -7,17 +7,11 @@
 
 ## The past journal club list can be found [here](past_list.md)
 
-## Jun 30, 2021
-* [Can contrastive learning avoid shortcut solutions?](https://arxiv.org/pdf/2106.11230.pdf)
-	* Presenter: Chuang
-* [Learning in the Frequency Domain](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Learning_in_the_Frequency_Domain_CVPR_2020_paper.pdf)
-	* Presenter: Jiajin
-
 ## Jul 14, 2021
-* TBA
+* [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
 	* Presenter: Chris
 
-* [Hold me tight! Influence of discriminative features on deep network boundaries](https://proceedings.neurips.cc/paper/2020/file/1ea97de85eb634d580161c603422437f-Paper.pdf)
+* [CPT: Efficient Deep Neural Network Training via Cyclic Precision](https://openreview.net/forum?id=87ZwsaQNHPZ) (ICLR2021)
 	* Presenter: Aseem
 
 ## Jul 28, 2021
