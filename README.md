@@ -33,7 +33,7 @@
 	* Presenter: Xi
 	
 * TBA
-	* Presenter: Xinrui
+	* Presenter: Hengtao
 
 ## Sep 8, 2021
 * TBA
@@ -55,3 +55,7 @@
 	
 * TBA
 	* Presenter: Xiaodong
+
+## Oct 20, 2021
+* TBA
+	* Presenter: Xinrui
