@@ -730,3 +730,9 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 	* Presenter: Qing [[slides](slides/2021-06-16_Qing_Fourier-based_Domain_Generalization.pdf)]
 * [Multi-institutional Collaborations for Improving Deep Learning-based Magnetic Resonance Image Reconstruction Using Federated Learning](https://arxiv.org/abs/2103.02148) (CVPR 2021)
 	* Presenter: Weiwen
+
+## Jun 30, 2021
+* [Can contrastive learning avoid shortcut solutions?](https://arxiv.org/pdf/2106.11230.pdf)
+	* Presenter: Chuang
+* [Learning in the Frequency Domain](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Learning_in_the_Frequency_Domain_CVPR_2020_paper.pdf)
+	* Presenter: Jiajin
