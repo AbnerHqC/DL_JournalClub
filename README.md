@@ -7,18 +7,11 @@
 
 ## The past journal club list can be found [here](past_list.md)
 
-## Jul 14, 2021
-* [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
-	* Presenter: Chris
-
-* [CPT: Efficient Deep Neural Network Training via Cyclic Precision](https://openreview.net/forum?id=87ZwsaQNHPZ) (ICLR2021)
-	* Presenter: Aseem
-
 ## Jul 28, 2021
 * TBA
 	* Presenter: Fatir
 
-* TBA
+* [There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge](https://openaccess.thecvf.com/content/CVPR2021/papers/Valverde_There_Is_More_Than_Meets_the_Eye_Self-Supervised_Multi-Object_Detection_CVPR_2021_paper.pdf)
 	* Presenter: Diego
 
 ## Aug 11, 2021
