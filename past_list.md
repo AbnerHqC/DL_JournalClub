@@ -729,10 +729,17 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 * [A Fourier-based Framework for Domain Generalization](https://arxiv.org/abs/2105.11120) (CVPR 2021)
 	* Presenter: Qing [[slides](slides/2021-06-16_Qing_Fourier-based_Domain_Generalization.pdf)]
 * [Multi-institutional Collaborations for Improving Deep Learning-based Magnetic Resonance Image Reconstruction Using Federated Learning](https://arxiv.org/abs/2103.02148) (CVPR 2021)
-	* Presenter: Weiwen
+	* Presenter: Weiwen [[slides](slides/2021-06-16_Weiwen_Improve_MRI_Recon_using_Federated_learning.pdf)]
 
 ## Jun 30, 2021
 * [Can contrastive learning avoid shortcut solutions?](https://arxiv.org/pdf/2106.11230.pdf)
-	* Presenter: Chuang
+	* Presenter: Chuang [[slides](slides/2021-06-30_Chuang_Can_contrastive_learning_avoid_shortcut_solutions.pdf)]
 * [Learning in the Frequency Domain](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Learning_in_the_Frequency_Domain_CVPR_2020_paper.pdf)
-	* Presenter: Jiajin
+	* Presenter: Jiajin [[slides](slides/2021-06-30_Jiajin_LearningFrequency.pdf)]
+
+
+## Jul 14, 2021
+* [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
+	* Presenter: Chris [[slides](slides/2021-07-14_Chris_Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf)]
+* [CPT: Efficient Deep Neural Network Training via Cyclic Precision](https://openreview.net/forum?id=87ZwsaQNHPZ) (ICLR2021)
+	* Presenter: Aseem [[slides](slides/2021-07-14_Aseem_CPT_Cyclic_Precision.pdf)]
