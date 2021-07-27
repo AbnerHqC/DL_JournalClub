@@ -19,7 +19,7 @@
 	* Presenter: Fenglei
 
 * TBA
-	* Presenter: Hanqing
+	* Presenter: Xinrui
 
 ## Aug 25, 2021
 * TBA
@@ -51,4 +51,4 @@
 
 ## Oct 20, 2021
 * TBA
-	* Presenter: Xinrui
+	* Presenter: Hanqing
