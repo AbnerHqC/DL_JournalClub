@@ -8,7 +8,7 @@
 ## The past journal club list can be found [here](past_list.md)
 
 ## Jul 28, 2021
-* TBA
+* [End-to-End Video Instance Segmentation with Transformers](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_End-to-End_Video_Instance_Segmentation_With_Transformers_CVPR_2021_paper.pdf)
 	* Presenter: Fatir
 
 * [There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge](https://openaccess.thecvf.com/content/CVPR2021/papers/Valverde_There_Is_More_Than_Meets_the_Eye_Self-Supervised_Multi-Object_Detection_CVPR_2021_paper.pdf)
