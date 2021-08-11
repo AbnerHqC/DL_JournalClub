@@ -743,3 +743,11 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 	* Presenter: Chris [[slides](slides/2021-07-14_Chris_Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf)]
 * [CPT: Efficient Deep Neural Network Training via Cyclic Precision](https://openreview.net/forum?id=87ZwsaQNHPZ) (ICLR2021)
 	* Presenter: Aseem [[slides](slides/2021-07-14_Aseem_CPT_Cyclic_Precision.pdf)]
+
+
+## Jul 28, 2021
+* [End-to-End Video Instance Segmentation with Transformers](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_End-to-End_Video_Instance_Segmentation_With_Transformers_CVPR_2021_paper.pdf)
+	* Presenter: Fatir
+
+* [There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge](https://openaccess.thecvf.com/content/CVPR2021/papers/Valverde_There_Is_More_Than_Meets_the_Eye_Self-Supervised_Multi-Object_Detection_CVPR_2021_paper.pdf)
+	* Presenter: Diego [[slides](slides/2021-07-28_Diego_There_is_More_Than_Meets_the_Eye.pdf)]
