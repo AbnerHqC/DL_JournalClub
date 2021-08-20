@@ -16,14 +16,14 @@
 	* Presenter: Xi
 	
 * TBA
-	* Presenter: Hengtao
+	* Presenter: Xuanang
 
 ## Sep 8, 2021
 * TBA
 	* Presenter: Nathan
 	
 * TBA
-	* Presenter: Xuanang
+	* Presenter: Hengtao
 
 ## Sep 22, 2021
 * TBA
