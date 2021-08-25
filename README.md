@@ -10,9 +10,6 @@
 ## Aug 25, 2021
 * [X-volution: On the unification of convolution and self-attention](https://arxiv.org/pdf/2106.02253.pdf)
 	* Presenter: Xi
-	
-* [Few-Shot Class-Incremental Learning via Relation Knowledge Distillation](https://ojs.aaai.org/index.php/AAAI/article/view/16213)
-	* Presenter: Xuanang
 
 ## Sep 8, 2021
 * TBA
@@ -38,3 +35,6 @@
 ## Oct 20, 2021
 * TBA
 	* Presenter: Hanqing
+
+* TBA
+	* Presenter: Xuanang
