@@ -7,15 +7,11 @@
 
 ## The past journal club list can be found [here](past_list.md)
 
-## Aug 11, 2021
-* [Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision](https://arxiv.org/pdf/2102.05918.pdf)
-	* Presenter: Xinrui
-
 ## Aug 25, 2021
-* TBA
+* [X-volution: On the unification of convolution and self-attention](https://arxiv.org/pdf/2106.02253.pdf)
 	* Presenter: Xi
 	
-* TBA
+* [Few-Shot Class-Incremental Learning via Relation Knowledge Distillation](https://ojs.aaai.org/index.php/AAAI/article/view/16213)
 	* Presenter: Xuanang
 
 ## Sep 8, 2021
