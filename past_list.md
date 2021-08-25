@@ -751,3 +751,7 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 
 * [There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge](https://openaccess.thecvf.com/content/CVPR2021/papers/Valverde_There_Is_More_Than_Meets_the_Eye_Self-Supervised_Multi-Object_Detection_CVPR_2021_paper.pdf)
 	* Presenter: Diego [[slides](slides/2021-07-28_Diego_There_is_More_Than_Meets_the_Eye.pdf)]
+
+## Aug 11, 2021
+* [Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision](https://arxiv.org/pdf/2102.05918.pdf)
+	* Presenter: Xinrui [[slides](slides/2021-08-11_Xinrui_Scaling_Up_Visual_and_Vision-Language_Representation_Learning.pdf)]
