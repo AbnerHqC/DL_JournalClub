@@ -7,22 +7,11 @@
 
 ## The past journal club list can be found [here](past_list.md)
 
-## Aug 25, 2021
-* [X-volution: On the unification of convolution and self-attention](https://arxiv.org/pdf/2106.02253.pdf)
-	* Presenter: Xi
-
-## Sep 8, 2021
+## Sep 22, 2021
 * TBA
 	* Presenter: Nathan
 	
-* TBA
-	* Presenter: Hengtao
-
-## Sep 22, 2021
-* TBA
-	* Presenter: Erim
-	
-* TBA
+* [What uncertainties do we need in Bayesian deep learning for computer vision](https://papers.nips.cc/paper/2017/hash/2650d6089a6d640c5e85b2b88265dc2b-Abstract.html) (NeurIPS 2017)
 	* Presenter: Rock
 
 ## Oct 6, 2021
@@ -34,7 +23,14 @@
 
 ## Oct 20, 2021
 * TBA
-	* Presenter: Hanqing
+	* Presenter: Erim
 
 * TBA
 	* Presenter: Xuanang
+
+## Nov 3, 2021
+* TBA
+	* Presenter: Hanqing
+	
+* TBA
+	* Presenter: Hengtao
