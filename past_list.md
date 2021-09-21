@@ -755,3 +755,7 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 ## Aug 11, 2021
 * [Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision](https://arxiv.org/pdf/2102.05918.pdf)
 	* Presenter: Xinrui [[slides](slides/2021-08-11_Xinrui_Scaling_Up_Visual_and_Vision-Language_Representation_Learning.pdf)]
+
+## Aug 25, 2021
+* [X-volution: On the unification of convolution and self-attention](https://arxiv.org/pdf/2106.02253.pdf)
+	* Presenter: Xi
