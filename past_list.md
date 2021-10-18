@@ -759,3 +759,10 @@ Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gidaris
 ## Aug 25, 2021
 * [X-volution: On the unification of convolution and self-attention](https://arxiv.org/pdf/2106.02253.pdf)
 	* Presenter: Xi
+
+## Sep 22, 2021
+* [Deformable MR-CBCT prostate registration using biomechanically constrained deep learning networks](https://doi.org/10.1002/mp.14584)
+	* Presenter: Nathan
+	
+* [What uncertainties do we need in Bayesian deep learning for computer vision](https://papers.nips.cc/paper/2017/hash/2650d6089a6d640c5e85b2b88265dc2b-Abstract.html) (NeurIPS 2017)
+	* Presenter: Rock
