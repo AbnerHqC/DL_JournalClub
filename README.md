@@ -7,30 +7,9 @@
 
 ## The past journal club list can be found [here](past_list.md)
 
-## Sep 22, 2021
-* [Deformable MR-CBCT prostate registration using biomechanically constrained deep learning networks](https://doi.org/10.1002/mp.14584)
-	* Presenter: Nathan
-	
-* [What uncertainties do we need in Bayesian deep learning for computer vision](https://papers.nips.cc/paper/2017/hash/2650d6089a6d640c5e85b2b88265dc2b-Abstract.html) (NeurIPS 2017)
-	* Presenter: Rock
-
-## Oct 6, 2021
-* TBA
-	* Presenter: Mengzhou
-	
-* TBA
-	* Presenter: Xiaodong
-
 ## Oct 20, 2021
-* TBA
-	* Presenter: Erim
-
-* TBA
-	* Presenter: Xuanang
-
-## Nov 3, 2021
-* TBA
+* (Swin Transformer: Hierarchical Vision Transformer using Shifted Windows)[https://arxiv.org/pdf/2103.14030.pdf] (ICCV2021 Best Paper)
 	* Presenter: Hanqing
-	
+
 * TBA
-	* Presenter: Hengtao
+	* Presenter: TBA
