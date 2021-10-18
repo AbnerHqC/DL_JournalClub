@@ -8,7 +8,7 @@
 ## The past journal club list can be found [here](past_list.md)
 
 ## Oct 20, 2021
-* (Swin Transformer: Hierarchical Vision Transformer using Shifted Windows)[https://arxiv.org/pdf/2103.14030.pdf] (ICCV2021 Best Paper)
+* [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030.pdf) (ICCV2021 Best Paper)
 	* Presenter: Hanqing
 
 * TBA
